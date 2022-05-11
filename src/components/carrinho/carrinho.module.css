@@ -1,0 +1,20 @@
+.navCart {
+  width: 80%;
+  margin-left: 20px;
+  display: flex;
+  height: auto;
+  flex-direction: column;
+  margin-top: 20px;
+  align-items: center;
+  justify-content: center;
+}
+.divCart {
+  display: flex;
+  border: 1px solid darkslategrey;
+  margin: 10px;
+  align-items: center;
+}
+
+.imgCarrinho {
+  width: 100px;
+}

@@ -1,0 +1,22 @@
+.divProdutos {
+  width: 120px;
+  height: auto;
+  padding: 14px;
+  margin-left: 5px;
+  margin-top: 26px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  border: 1px solid rgb(138, 138, 138);
+  align-items: center;
+}
+button {
+  margin-top: 5px;
+}
+
+.carrinho {
+  width: 23px;
+}
+.imgRoupa {
+  width: 130px;
+}
